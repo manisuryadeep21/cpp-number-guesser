@@ -16,4 +16,3 @@ Make sure you have a C++ compiler installed on your system (like `g++` via MinGW
 Run the compiled game executable:
 * **Windows:** `.\Game.exe`
 * **macOS / Linux:** `./Game`
-*
