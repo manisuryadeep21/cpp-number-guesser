@@ -3,7 +3,7 @@
 A fun, interactive command-line guessing game built with modern C++. It features safe input validation, dynamic difficulty settings, high score tracking, and custom hints to help players out!
 
 ## 🌐 Live Documentation & How to Play
-For full setup guides, compilation instructions, and execution details, visit our live documentation page:
+For full setup guides, compilation instructions, and execution details, visit our live documentation page: https://github.com/manisuryadeep21/cpp-number-guesser.git
 ## 🚀 Key Features
 * *Modern Randomizer:* Uses std::mt19937 for true pseudo-random number distributions.
 * *Crash Proof:* Safe input streams prevent infinite loops if letters are entered.
